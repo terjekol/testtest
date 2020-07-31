@@ -2,4 +2,4 @@
 
 Isoporhønsehus er best, fordi sånn og sånn.
 
-!()[hønsehus.jpg]
+![](hønsehus.jpg)
